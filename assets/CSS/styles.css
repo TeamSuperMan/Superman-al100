@@ -23,8 +23,11 @@ h2 {
 }
 
 .banner-1 {
-    height: 50vh;
-    background-position: co;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
 }
 
 .menu-item a {
